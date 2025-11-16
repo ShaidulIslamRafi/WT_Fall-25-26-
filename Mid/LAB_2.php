@@ -63,7 +63,7 @@
     }
    output.innerHTML="Registration Successful";
 
-;
+
    }
 
 

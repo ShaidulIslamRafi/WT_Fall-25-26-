@@ -59,7 +59,7 @@
 
     if(name==="" ||email===""||phone===""||password===""||c_password==="" ){
         error.innerHTML="No field can be left empty";
-        return false;
+       
     }
    output.innerHTML="Registration Successful";
 

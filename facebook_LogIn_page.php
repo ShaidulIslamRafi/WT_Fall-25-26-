@@ -35,7 +35,7 @@
             background-color:transparent;
             width: 350px;
            /* padding: 25px;*/
-           padding-top:0px;
+            padding-top:0px;
             padding-right:70px;
             padding-bottom:70px;
             padding-left:70px;

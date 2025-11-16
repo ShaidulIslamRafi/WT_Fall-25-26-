@@ -44,6 +44,7 @@
     <input type="submit" onclick="validation()" value="Register" style="background-color:blue;color:white;border-radius:3px"><br>
  
     </div>
+    <div id ="output"></div>
 
 
    <script>

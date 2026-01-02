@@ -12,10 +12,10 @@
 
 <style>
 form{
-    background-color: #dad0d0ff;
+    background-color: rgba(255,255,255,1);
     width: 500px;
     
-    margin:auto ;
+    margin:0 auto ;
     position:absolute;
     top:0%;
     right:0%;
@@ -37,17 +37,18 @@ input{
     margin-bottom:0px;
     padding:8px;
     width:50%;
-    border:1px solid #00f;
+    border:1px solid rgba(60, 60, 65, 1);
     border-radius:10px
 
 }
 label{
-    /*position:absolute;
+    position:absolute;
+    left:105px;
     
-    margin:5px ;
+   /* margin:5px ;
     padding-left:50px;*/
-    display:block;
-    margin:0px 0px 2px 100px;
+   /* display:block;
+    margin:0px 0px 0px 100px;
    /* left:105px;
     margin:5px;*/
 }
@@ -55,7 +56,9 @@ label{
 h1{
    text-align:center;
 }
-
+body{
+    background-color: #e6e6e6ff;
+}
 
 
 </style>
@@ -83,7 +86,7 @@ h1{
 <input type="text"><br>
 <label for="">Confirm Password:</label> <br>
 <input type="text"><br>
-<input type="submit"><br>
+<input type="submit" ><br>
 
 
 

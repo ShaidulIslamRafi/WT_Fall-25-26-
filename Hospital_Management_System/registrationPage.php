@@ -14,14 +14,14 @@
 form{
     background-color: rgba(255,255,255,1);
     width: 500px;
-    
+    height:650px;
     margin:0 auto ;
     position:absolute;
-    top:0%;
+    top:10%;
     right:0%;
     bottom:0%;
     left:0%;
-    
+    border-radius:35px;
 
 }
 input{
@@ -77,10 +77,10 @@ body{
 <label for="">LastName:</label><br>
  <input type="text"><br>
 <label for="">Age:</label><br>
- <input type="number"><br>
+ <input type="text"><br>
 <label for="">Blood Group:</label> <br>
 <input type="text"> <br>
-<label for="">Email:</label> <br>
+<label for="">UserName/Email:</label> <br>
 <input type="email"><br>
 <label for="">Password:</label> <br>
 <input type="text"><br>

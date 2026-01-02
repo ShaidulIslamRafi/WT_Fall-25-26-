@@ -77,8 +77,8 @@ body{
     <p>Login with your details to continue </p>
 
    
-   <label for="">Email:</label><br>
-   <input type="text" placeholder="Email" ><br><br><br>
+   <label for="">Username:</label><br>
+   <input type="text" placeholder="UserName" ><br><br><br>
    <label for="">Password:</label><br>
    <input type="text " placeholder="Password"><br><br>
    <button >Login</button>

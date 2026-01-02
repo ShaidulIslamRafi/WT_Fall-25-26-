@@ -25,13 +25,7 @@ form{
 
 }
 input{
-    /*padding:8px;
-    width:50%;
-    display:block;
-    left:100px;
-    border: 1px solid #00f;
-    border-radius:10px;*/
-
+   
     display:block;
     margin-left:100px;
     margin-bottom:0px;
@@ -45,12 +39,7 @@ label{
     position:absolute;
     left:105px;
     
-   /* margin:5px ;
-    padding-left:50px;*/
-   /* display:block;
-    margin:0px 0px 0px 100px;
-   /* left:105px;
-    margin:5px;*/
+   
 }
 
 h1{

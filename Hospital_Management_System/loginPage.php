@@ -24,7 +24,7 @@
      bottom:0%;
      left:0%;
      margin:auto;
-    
+    border-radius:35px;
    
 
   }
@@ -84,7 +84,6 @@ body{
    <button >Login</button>
    <label for=""style="position:absolute;top:80%;">Don`t have an account</label>
   
-
   </form>  
 
 

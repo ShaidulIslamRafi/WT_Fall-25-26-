@@ -18,7 +18,6 @@ form{
      left:0%;
      margin:auto;
     
-   
 
   }
 
@@ -59,7 +58,7 @@ return $data;
 <form action="" method="post">
 
 Username: <input type="text" name="uname" value= "<?php echo $uname;?>"> <?php echo $unameerror;?><br> <br>
-Password:  <input type="text" value ="<?php echo $password;?>">  <br> <br>
+Password:  <input type="text" name="password"value ="<?php echo $password;?>">  <br> <br>
 <input type="submit" name="submit" value="submit" style="display:block;margin:0 auto;">
 
 

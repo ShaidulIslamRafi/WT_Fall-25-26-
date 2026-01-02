@@ -8,7 +8,7 @@
   <meta name="keyword" content="Hospital,manangement">
   <meta name="viewpoint" content ="width=device-width,initial-scal=1.0">
 
- <title>Home </title>
+ <title>Log In</title>
 <style>
 
   form{
